@@ -1,0 +1,2 @@
+module SearchkeyHelper
+end
